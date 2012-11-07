@@ -26,8 +26,4 @@
 6. Teknologi yang digunakan (php murni atau menggunakan framework tertentu) dan alasan memilih teknologi tersebut
 
 Developed by :
-Dita Pramitasari	5210 100 148
-	
-Annisa Rachmi		5210 100 138
-	
-Ma’rifatul Khusniyah	5210 100 101 	
+Dita Pramitasari (5210100148), Annisa Rachmi (5210100138), Ma’rifatul Khusniyah (5210100101)
