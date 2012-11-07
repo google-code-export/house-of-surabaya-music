@@ -3,18 +3,19 @@
 
 2. TUJUAN DAN MANFAAT PROJECT
    Adapun yang menjadi tujuan dalam program ini adalah :
-   - Mempermudah para pecinta musik untuk mendapatkan informasi mengenai
-     studio musik, toko alat musik, dan studio recording khusus wilayah 
-     Surabaya. 
-   - Membuat sebuah aplikasi yang dapat digunakan sebagai media promosi 
-     bagi pemilik studio musik, toko alat musik, dan studio recording di 
-     Surabaya.
+
+   - Mempermudah para pecinta musik untuk mendapatkan informasi mengenai studio musik, toko alat musik, dan studio recording khusus wilayah Surabaya.
+ 
+   - Membuat sebuah aplikasi yang dapat digunakan sebagai media promosi bagi pemilik studio musik, toko alat musik, dan studio recording di Surabaya.
 
 
 3. TARGET PENGGUNA PROJECT
    -Pemilik studio musik se-Surabaya
+
    -Pemilik studio recording se-Surabaya
+
    -Pemilik toko alat musik se-Surabaya
+
    -Masyarakat umum
 
 4. Fitur-fitur yang menjadi kelebihan project
