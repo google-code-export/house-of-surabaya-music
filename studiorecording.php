@@ -126,7 +126,7 @@ while($data=mysql_fetch_row($hasil)){
 	  <br>
 	  <br>
       <div class="span12">
-        <center>© 2012 House Of Surabaya Music. All rights reserved.</center>
+        <center>Â© 2012 House Of Surabaya Music. All rights reserved.</center>
       </div>
     </footer>
 </br><script src="js/bootstrap.js"></script>
